@@ -1,4 +1,5 @@
 <h2> Compte rendu du devoir N°1</h2>
+<img src="captures/capture12.png">
 <img src="captures/capture1.png">
 
 <img src="captures/capture2.png">
@@ -11,4 +12,6 @@
 <img src="captures/capture9.png">
 <img src="captures/capture10.png">
 <img src="captures/capture11.png">
-<img src="captures/capture12.png">
+
+<img src="captures/capture13.png">
+<img src="captures/capture14.png">
